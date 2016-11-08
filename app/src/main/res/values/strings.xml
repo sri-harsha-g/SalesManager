@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sales Assistant</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="title_activity_profile_page">ProfilePage</string>
+</resources>

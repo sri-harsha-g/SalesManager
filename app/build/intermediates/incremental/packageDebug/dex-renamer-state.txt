@@ -1,0 +1,7 @@
+#Sun Nov 06 20:49:46 EST 2016
+base.0=C\:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e72ca45e73b464e7f187695d401cb5563993f028
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1768cd08304ab15ab51ab64a585d510031b32cca\\classes.dex
+base.1=C\:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1768cd08304ab15ab51ab64a585d510031b32cca
+file.0=C\:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e72ca45e73b464e7f187695d401cb5563993f028\\classes.dex
