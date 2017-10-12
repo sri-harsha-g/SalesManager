@@ -3,174 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_4632aca652ba9c06a7caf088625424cef7805cf7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a34587360d1e02826dab43777a03cf3a9364806a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_24eec9296f843e88e020c04d83c5f7bbc57fd169\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_76abb42ce6765a1d7af895ba994828ddf0bfba25\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="36fd39a37244b87379615b231f485bce9f7b88ad">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1768cd08304ab15ab51ab64a585d510031b32cca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_7754c2e80eff4dfad8897a5885e7c387fcefacc6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_94b1f397f1d9b12a5d63050ef40a510505ea69d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_04db3e3a8be23a65300ae888a6389ab74daaea78\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a29a2b14462257886ce7c09cc5026518840f0728/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_4eb651cf6fc2bd1d6476d4fec894c86d2b494d56\classes.dex" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b4130ff6063c522d3d254658510ad2b5a88424f7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1222a6a7f85cada47be15b803fb08d38cb5e9a47\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_4434394415124d6d3994665a83462c3695d55279\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3b3f539144340b480539a86227b87c267d91ccf2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a17b0c741e85f5cc60b80395e18a397e334a25f2\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_88cc1614226e0d86718190eabdb6cd78578bfffb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/Users/sriharshagujju/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.0.9/4244e2998018aa492389e8e30a77b7987959608e/MPAndroidChart-v2.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.0.9_e2d6cca30f13e620637bbbf685f824cb3ca230f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_73fa5dc11e84244cdc255aa1e4a09826ec528f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc33a2f806c281527d8a862372086ee652144c69\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_15703540ddbae11dbe15540f9d7b364905ad8b87/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_263bf6272ee7f27b1119ed80416f3ca8df60e033\classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_7db2dcdead07afd9760ab7fef8562197db96f58b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fd55565e28cb57fc9ce6a41f7af81e697e42aa0a">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e72ca45e73b464e7f187695d401cb5563993f028\classes.dex" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_58585904967374575871f0933a9e918b6748250c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="930babca6486e8e66e1494d66d0f7c8bc79e7b67">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_da14598ebbaf958d4f042e24b61afbf97e19087d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b3d216ac06755de4c4306d1544e7ecd1e3be2817/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b3e5fa4ba985e36005b1e32d55205bd4d420e58f\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c186f574d46857e84c4b34152dacbb30145308cc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8cf0eb49f22b67d91850bab20617d399e0c5adb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_8fa918c0c5188952fcc331f6e6a03cd7bda63867\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_287f807a23fb920d7f726d4e952287db6ed1863f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_081ae80d9dd6331ae6e432e017a705cbd0d2aebc\classes.dex" />
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cc26b5961dfef79b90cbc8e3312aec47af6b8989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_beeca0af6d7415ba8f7ae1ea23bf764782120b47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_657fb0cb518bb61247793fc594f9f0dd8ff16686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07b911a4e05206c32ba82fad7264d7a4f0cee58a">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a48070ad3c45e60a051e04c38fe78ef57f0c4248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7d705f6a7cae2de2a9d75f2a04048fcb231f1591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_426e40c816fc906f4c4a1f3a280df1b3a3432355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b80285b6eda41c492a58aa33a48b79ce8a8738da/classes.dex" />
     </item>
 
 </items>

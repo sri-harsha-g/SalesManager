@@ -17,7 +17,6 @@ public class AddSalesRep extends AppCompatActivity {
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_sales_rep);
-//Why Final
 
         firstNameSalesRep= (EditText)findViewById(R.id.firstName_SalesRep);
         secondNameSalesRep=(EditText)findViewById(R.id.secondName_SalesRep);

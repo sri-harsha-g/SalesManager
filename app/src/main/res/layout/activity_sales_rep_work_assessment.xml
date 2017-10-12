@@ -10,71 +10,94 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.sriharsha.salesassistant.SalesRepWorkAssessment">
     <LinearLayout
-        android:layout_weight="0.1"
+        android:id="@+id/salesRepReferenceText"
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
-
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            >
         <TextView
             android:text=""
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/salesRepFirstName" />
+            android:id="@+id/salesRepFirstName"
+            />
 
         <TextView
             android:text="'s SalesAssesment"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/salesRepGreeting" />
+            android:id="@+id/salesRepGreeting"
+            />
+        </LinearLayout>
+        <Button
+            android:id="@+id/btnPerformance"
+            android:text="View Performance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+
+            />
     </LinearLayout>
+
 <LinearLayout
-    android:layout_marginTop="30dp"
-    android:layout_marginLeft="20dp"
+    android:id="@+id/tableColumns"
+    android:layout_marginTop="50dp"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 <TextView
     android:text="YEAR"
-    android:layout_weight="0.25"
+    android:layout_weight="0.2"
+
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:textStyle="bold"/>
     <TextView
         android:text="MONTH"
-        android:layout_weight="0.25"
+        android:layout_weight="0.2"
+        android:gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"/>
 
     <TextView
         android:text="TARGET"
-        android:layout_weight="0.25"
+        android:layout_weight="0.2"
+        android:gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"/>
     <TextView
         android:text="ACHIEVED"
-        android:layout_weight="0.25"
+        android:layout_weight="0.2"
+        android:gravity=""
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"/>
+    <TextView
+        android:text="UPDATE"
+        android:layout_weight="0.2"
+        android:gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"/>
+
 </LinearLayout>
-    <ScrollView
-        android:layout_marginTop="50dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+
     <LinearLayout
+        android:id="@+id/workassessmentTable"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        >
-
-
+        android:layout_below="@+id/tableColumns"
+>
         <ListView
-            android:layout_weight="0.9"
             android:id="@+id/salesWorkRecords"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="match_parent"/>
     </LinearLayout>
-    </ScrollView>
 </RelativeLayout>

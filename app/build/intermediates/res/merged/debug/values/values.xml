@@ -563,6 +563,7 @@
     <string name="prompt_password">Password</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_performance_chart">PerformanceChart</string>
     <string name="title_activity_profile_page">ProfilePage</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

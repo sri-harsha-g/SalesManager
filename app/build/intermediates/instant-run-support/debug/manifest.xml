@@ -29,6 +29,16 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.sriharsha.salesassistant.AddSalesRep" />
         <activity android:name="com.example.sriharsha.salesassistant.SalesRepWorkCreate" />
+        <activity android:name="com.example.sriharsha.salesassistant.SalesRepWorkAssessment" />
+        <activity
+            android:name="com.example.sriharsha.salesassistant.PerformanceChart"
+            android:label="@string/title_activity_performance_chart"
+            android:parentActivityName="com.example.sriharsha.salesassistant.SalesRepWorkAssessment"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sriharsha.salesassistant.SalesRepWorkAssessment" />
+        </activity>
     </application>
 
 </manifest>

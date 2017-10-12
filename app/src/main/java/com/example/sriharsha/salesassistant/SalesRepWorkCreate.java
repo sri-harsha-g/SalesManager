@@ -51,7 +51,7 @@ public class SalesRepWorkCreate extends AppCompatActivity {
             public void onClick(View v) {
 
                 salesTargetAmount=Double.parseDouble(salesTargetValue.getText().toString());
-                month = salesTargetDatePicker.getMonth();
+                month = salesTargetDatePicker.getMonth()+1;
                 year=salesTargetDatePicker.getYear();
 
                 salesRepWorkInstance= new SalesRepWorkModel();

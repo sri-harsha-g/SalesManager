@@ -1,50 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="24"
-    density="420dpi"
+    abi="x86_64,x86"
+    api-level="23"
+    density="xxhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="260085556755457"
-    token="4211034741597119878"
+    plugin-version="2.2.3"
+    timestamp="90177425091372"
+    token="4637068825186151501"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="867" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="42" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="183" />
+        duration="0" />
     <task
         name="verifier"
-        duration="27" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        location="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
         type="RESOURCES" />
-    <artifact
-        location="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
 
     <build
-        timestamp="259350722580429"
+        timestamp="87730614232663"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\outputs\apk\app-debug.apk"
+            location="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="260085556755457"
+        timestamp="90177425091372"
         verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            location="/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
-        <artifact
-            location="C:\Users\donip\Downloads\SalesAssistant-20161019T060323Z\SalesAssistant\SalesAssistant\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

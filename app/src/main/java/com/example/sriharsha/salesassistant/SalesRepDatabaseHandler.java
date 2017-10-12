@@ -26,12 +26,12 @@ public class SalesRepDatabaseHandler extends SQLiteOpenHelper {
 
     //SalesRepWork Table AND keys
     private static final String TABLE_SALESREP_WORK="salesrepworkprofile";
-    private static final String KEY_ID="_id";
-    private static final String KEY_SALESREPID="salesrepid";
-    private static final String KEY_SALESTARGET="salestargetamount";
-    private static final String KEY_MONTHASSIGNED="targetassignedmonth";
-    private static final String KEY_YEARASSIGNED="targetassignedyear";
-    private static final String KEY_SALESACHIEVED="salesachievedamount";
+    private static final String KEY_SALESREPID="salesrepid";//Column -1
+    private static final String KEY_SALESTARGET="salestargetamount";//Column -2
+
+    private static final String KEY_MONTHASSIGNED="targetassignedmonth";//Column -3
+    private static final String KEY_YEARASSIGNED="targetassignedyear";//Column -4
+    private static final String KEY_SALESACHIEVED="salesachievedamount";//Column -5
 
     public SalesRepDatabaseHandler(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -45,8 +45,8 @@ public class SalesRepDatabaseHandler extends SQLiteOpenHelper {
                 + KEY_SECONDNAME + " TEXT," + KEY_EMAIL + " TEXT," + KEY_PHONE + " TEXT," + KEY_ADDRESS + " TEXT" + ")";
 
         String CREATE_SALESREPWORK_TABLE="CREATE TABLE " + TABLE_SALESREP_WORK + " ("
-                + KEY_ID + " INTEGER PRIMARY KEY," + KEY_SALESREPID + " INTEGER,"
-                + KEY_SALESTARGET + " REAL," + KEY_MONTHASSIGNED + " TEXT," + KEY_YEARASSIGNED + " TEXT," + KEY_SALESACHIEVED +" REAL" + ")";
+                + "_id" + " INTEGER PRIMARY KEY," + KEY_SALESREPID + " INTEGER,"
+                + KEY_SALESTARGET + " REAL," + KEY_MONTHASSIGNED + " INTEGER," + KEY_YEARASSIGNED + " INTEGER," + KEY_SALESACHIEVED +" REAL" + ")";
 
         db.execSQL(CREATE_CONTACTS_TABLE);
         db.execSQL(CREATE_SALESREPWORK_TABLE);
@@ -112,12 +112,6 @@ public class SalesRepDatabaseHandler extends SQLiteOpenHelper {
 
     public void addWorkSalesRep(SalesRepWorkModel salesRepWork){
 
-        Log.i("salesRepId",Integer.toString(salesRepWork.getSalesRepId()));
-        Log.i("SalesRepTarget",Double.toString(salesRepWork.getsalesAchievedAmount()));
-        Log.i("SalesRepTargetMonth",Integer.toString(salesRepWork.getTargetMonth()));
-        Log.i("SalesRepTargetYear",Integer.toString(salesRepWork.getTargetYear()));
-        Log.i("SalesRepAchievedSales",Double.toString(salesRepWork.getsalesAchievedAmount()));
-
         SQLiteDatabase db=this.getWritableDatabase();
 
         ContentValues cv= new ContentValues();
@@ -132,7 +126,4 @@ public class SalesRepDatabaseHandler extends SQLiteOpenHelper {
         db.close();
 
     }
-
-
-
 }

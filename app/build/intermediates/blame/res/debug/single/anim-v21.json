@@ -1,26 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "merged": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant-20161019T060323Z\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\donip\\Downloads\\SalesAssistant App\\SalesAssistant\\SalesAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/sriharshagujju/Desktop/Harsha/Sales Assistant Android Project/SalesAssistant/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

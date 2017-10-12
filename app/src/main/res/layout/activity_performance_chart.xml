@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.sriharsha.salesassistant.PerformanceChart">
+
+
+     <com.github.mikephil.charting.charts.BarChart
+         android:id="@+id/performanceBarchart"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_marginLeft="@dimen/activity_vertical_margin"
+         android:layout_marginRight="@dimen/activity_vertical_margin"
+         android:layout_marginBottom="@dimen/activity_horizontal_margin">
+
+     </com.github.mikephil.charting.charts.BarChart>
+
+
+</android.support.design.widget.CoordinatorLayout>

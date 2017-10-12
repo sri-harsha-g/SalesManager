@@ -16,15 +16,16 @@
             android:id="@+id/welcomeText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="30dp"
+            android:layout_marginBottom="20dp"
             android:textStyle="bold"/>
 
     <ListView
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#8AACB8"
+        android:layout_below="@id/welcomeText"
         android:divider="@android:color/darker_gray"
         android:dividerHeight="10.0sp">
     </ListView>
+
 </RelativeLayout>
